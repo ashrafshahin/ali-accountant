@@ -1,0 +1,11 @@
+## Pages
+- [Bookkeeping Services - Ali & Co Accountants](/bookkeeping): Professional bookkeeping services to keep your financial records accurate and up-to-date. Expert transaction recording and reconciliation.
+- [Business Plan Services - Ali & Co Accountants](/businessplan): Professional business plan preparation for startups and funding applications. Expert financial projections and strategic planning.
+- [Company Formation Services - Ali & Co Accountants](/companyformation): Professional company formation services. Complete registration, compliance setup, and expert guidance to get your business started.
+- [Contact Us - Ali & Co Accountants](/contact): Get in touch with Ali & Co Accountants. Visit us in Luton or contact us by phone, email, or WhatsApp for professional accounting services.
+- [News & Resources - Ali & Co Accountants](/newsresources): Essential business resources and news sources. Access HMRC, Companies House, industry publications, and professional insights.
+- [Our Services - Ali & Co Accountants](/services): Comprehensive accounting services including accounts preparation, bookkeeping, tax planning, payroll, VAT returns, and more. Professional support for your business.
+- [Payroll & Pension Services - Ali & Co Accountants](/payrollpension): Professional payroll and pension services. Complete PAYE administration, auto-enrolment compliance, and pension scheme management.
+- [Tax Planning Services - Ali & Co Accountants](/taxplanning): Expert tax planning to minimize your tax liability legally. Strategic advice on corporation tax, capital gains, and tax efficiency.
+- [Tax Return Services - Ali & Co Accountants](/taxreturn): Expert self-assessment tax return preparation and filing. Maximize deductions and ensure HMRC compliance.
+- [VAT Return Services - Ali & Co Accountants](/vatreturn): Professional VAT return preparation and submission. MTD compliance, VAT registration, and expert HMRC support.
