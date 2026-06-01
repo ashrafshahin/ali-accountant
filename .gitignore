@@ -1,0 +1,33 @@
+# dependencies
+node_modules
+**/node_modules
+
+# Next.js
+.next
+**/.next
+
+# build output
+dist
+build
+out
+
+# logs
+*.log
+npm-debug.log*
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# Vercel
+.vercel
+
+# Turbo (if used)
+.turbo
+
+# coverage
+coverage
